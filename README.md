@@ -32,5 +32,5 @@ Open the `inspect_balloon_data.ipynb` or `inspect_balloon_model.ipynb` Jupter no
 
 
 ## Final Effect
-![Alt Text](https://raw.githubusercontent.com/YiQiang1996/Hr_challenging_project/samples/balloon/balloon.jpg)
+![Alt Text](https://github.com/YiQiang1996/Hr_challenging_project/samples/balloon/balloon.jpg)
 
