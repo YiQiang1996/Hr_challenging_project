@@ -2,9 +2,9 @@
 
 Files to download:
 
-First Download "mask_rcnn_balloon.h5".[here](https://drive.google.com/drive/u/1/folders/1wbMLcOuSfNBcFIfoKS2Q-2nRyML_BEvA) Save it to the 'samples/balloon/' directory
+First Download "mask_rcnn_balloon.h5".[here](https://drive.google.com/open?id=1wbMLcOuSfNBcFIfoKS2Q-2nRyML_BEvA) Save it to the 'samples/balloon/' directory
 
-Second Downlods "mask_rcnn.h5".[here](https://drive.google.com/drive/u/1/folders/1wbMLcOuSfNBcFIfoKS2Q-2nRyML_BEvA) Save it to the folder
+Second Downlods "mask_rcnn.h5".[here](https://drive.google.com/open?id=1wbMLcOuSfNBcFIfoKS2Q-2nRyML_BEvA) Save it to the folder
 
 
 ## To detect the balloon in the image or videos using the provided weights
