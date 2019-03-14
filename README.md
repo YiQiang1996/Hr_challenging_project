@@ -1,3 +1,7 @@
+# Main program
+
+The mian program are inside the "samples/balloon/" directory, you can train or test the program using the following commands
+
 # Hr_challenging_project
 
 Files to download:
