@@ -30,5 +30,3 @@ python3 balloon.py train --dataset=/path/to/balloon/dataset --weights=coco
 ## Run Jupyter notebooks
 Open the `inspect_balloon_data.ipynb` or `inspect_balloon_model.ipynb` Jupter notebooks. You can use these notebooks to explore the dataset and run through the detection pipelie step by step.
 
-## Final effect
-[before](https://github.com/YiQiang1996/Hr_challenging_project/blob/master/samples/balloon/balloon.jpg)
